@@ -1,0 +1,34 @@
+* {
+    font-family: Georgia, monospace; 
+}
+
+h1 {
+    text-align: center; 
+    color: blue; 
+}
+
+h2 {
+    text-align: center;
+}
+
+table, td, tr, th {
+    border: green solid 2px; 
+}
+
+th {
+    padding: 10px; 
+    font-size: 1.1em; 
+    background-color: lightgreen;
+}
+
+table {
+    margin: auto; 
+}
+
+td {
+    padding: 10px; 
+}
+
+span {
+    font-weight: bold;
+}
